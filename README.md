@@ -1,5 +1,5 @@
 # Analise dos precos da gasolina no Brasil
-Aprenda pandas respondendo 13 exercicios analisando o preço da gasolina no Brasil 
+Aprenda pandas respondendo 13 exercicios analisando o preço da gasolina no Brasil, baixe os arquivos e abra no Google Colab e resolva os exercicios
 
 1° Exercício: Carregue os conjuntos de dados "gasolina_2000+.csv" e "gasolina_2010+.csv" em dois DataFrames diferentes e combine-os em um único DataFrame.
 
